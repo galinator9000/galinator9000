@@ -16,6 +16,6 @@
 <h4 align="center">My latest articles</h4>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-</p>
+</p><br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fmehmetun&label=Views&color=010002&style=flat-square" alt="fmehmetun" /> </p>
