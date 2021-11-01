@@ -15,6 +15,8 @@
 <p align="center">
 <h3 align="center">My latest articles</h3>
 <!-- BLOG-POST-LIST:START -->
+- [Genetik mi Algoritmalar?  #2: DEAP!](https://medium.com/rsparametrelerbutunu/genetik-mi-algoritmalar-2-deap-faaaaab756f7?source=rss-873ea545dd09------2)
+- [Genetik mi Algoritmalar?  #1: Evet.](https://medium.com/rsparametrelerbutunu/genetik-mi-algoritmalar-1-evet-9fded872060b?source=rss-873ea545dd09------2)
 <!-- BLOG-POST-LIST:END -->
 </p><br/>
 
