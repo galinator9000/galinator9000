@@ -5,9 +5,6 @@
 <a href="https://medium.com/@fmehmetun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fmehmetun" height="30" width="40" /></a>
 </p><br/>
 
-<!-- View counter -->
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=fmehmetun&label=Views&color=010002&style=flat-square" alt="fmehmetun" /> </p> -->
-
 <h3 align="center">Skills</h3>
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </p><br/>
@@ -23,3 +20,6 @@
 - [Genetik mi Algoritmalar?  #2: DEAP!](https://medium.com/rsparametrelerbutunu/genetik-mi-algoritmalar-2-deap-faaaaab756f7?source=rss-873ea545dd09------2)
 - [Genetik mi Algoritmalar?  #1: Evet.](https://medium.com/rsparametrelerbutunu/genetik-mi-algoritmalar-1-evet-9fded872060b?source=rss-873ea545dd09------2)
 <!-- BLOG-POST-LIST:END -->
+
+<!-- View counter -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fmehmetun&label=Views&color=010002&style=flat-square" alt="fmehmetun" /> </p>
