@@ -12,6 +12,8 @@
 <p align="center"> <img align="center" width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=fmehmetun&show_icons=true&count_private=true&theme=dark&title_color=fefffd&text_color=fefffd&bg_color=010002&hide_border=true&locale=en" alt="fmehmetun" /> <img align="center" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=fmehmetun&exclude_repo=NNCars&show_icons=true&theme=dark&title_color=fefffd&text_color=fefffd&bg_color=010002&hide_border=true&locale=en&layout=compact" alt="fmehmetun" />
 </p><br/>
 
+<hr class="dashed" />
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
