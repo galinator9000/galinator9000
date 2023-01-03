@@ -1,4 +1,6 @@
-<p align="center"> <img align="center" width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=galithegal&show_icons=true&count_private=true&theme=dark&title_color=fefffd&text_color=fefffd&bg_color=010002&hide_border=true&locale=en" alt="galithegal" /> <img align="center" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=galithegal&exclude_repo=NNCars&show_icons=true&theme=dark&title_color=fefffd&text_color=fefffd&bg_color=010002&hide_border=true&locale=en&layout=compact" alt="galithegal" />
+<p align="center">
+  <img align="center" width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=galithegal&show_icons=true&count_private=true&theme=jolly&locale=en" alt="galithegal" />
+  <img align="center" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=galithegal&exclude_repo=NNCars&show_icons=true&theme=jolly&locale=en&layout=compact" alt="galithegal" />
 </p>
 
 <hr class="dashed" />
