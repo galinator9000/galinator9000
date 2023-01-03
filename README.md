@@ -6,6 +6,7 @@
 <hr class="dashed" />
 <p align="center">
 
+<h3 align="left">WakaTime Stats</h3>
 <!--START_SECTION:waka-->
 
 ```text
