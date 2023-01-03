@@ -1,14 +1,3 @@
-<p align="center">
-<a href="https://twitter.com/fmehmetun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fmehmetun" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fmehmetun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fmehmetun" height="30" width="40" /></a>
-<a href="https://kaggle.com/fmehmetun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fmehmetun" height="30" width="40" /></a>
-<a href="https://medium.com/@fmehmetun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fmehmetun" height="30" width="40" /></a>
-</p><br/>
-
-<h3 align="center">Skills</h3>
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</p><br/>
-
 <p align="center"> <img align="center" width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=fmehmetun&show_icons=true&count_private=true&theme=dark&title_color=fefffd&text_color=fefffd&bg_color=010002&hide_border=true&locale=en" alt="fmehmetun" /> <img align="center" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=fmehmetun&exclude_repo=NNCars&show_icons=true&theme=dark&title_color=fefffd&text_color=fefffd&bg_color=010002&hide_border=true&locale=en&layout=compact" alt="fmehmetun" />
 </p>
 
@@ -16,28 +5,6 @@
 <p align="center">
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.51% 
-🌆 Daytime    264 commits    █████████░░░░░░░░░░░░░░░░   36.07% 
-🌃 Evening    318 commits    ██████████░░░░░░░░░░░░░░░   43.44% 
-🌙 Night      95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.98%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Text                     22 mins             ████████████████████░░░░░   80.65% 
-Python                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   3.98%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </p>
@@ -51,4 +18,4 @@ Git Config               1 min               █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:END -->
 
 <!-- View counter -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fmehmetun&label=Views&color=010002&style=flat-square" alt="fmehmetun" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=galithegal&label=Views&color=010002&style=flat-square" alt="galithegal" /> </p>
