@@ -5,6 +5,16 @@
 <p align="center">
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   7 hrs 19 mins   ███████████████████████░░   92.32 %
+Bash         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Python       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
 
 </p>
