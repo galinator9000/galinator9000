@@ -10,8 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 mins          ██████████████████░░░░░░░   71.84 %
-Python       1 min           ███████░░░░░░░░░░░░░░░░░░   28.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
