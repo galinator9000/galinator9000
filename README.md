@@ -1,26 +1,15 @@
-<p align="center">
-  <img align="center" width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=galithegal&show_icons=true&count_private=true&theme=jolly&locale=en" alt="galithegal" />
-  <img align="center" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=galithegal&exclude_repo=NNCars&show_icons=true&theme=jolly&locale=en&layout=compact" alt="galithegal" />
-</p>
+<div align="center">
+  
+  ![](https://readme.rocks/api/view/64456979250c4cf5d562f5bf)
+  
+  ![](https://readme.rocks/api/view/64456a75250c4cf5d562f5c1)
+  
+  ![](https://readme.rocks/api/view/644569b9250c4cf5d562f5c0)
+  
+  ![](https://readme.rocks/api/view/64456b9d800c95e0a4578993) ![](https://readme.rocks/api/view/64456bba800c95e0a4578994)
 
-<hr class="dashed" />
-<p align="center">
+</div>
 
-<h3 align="left">WakaTime Stats</h3>
-<!--START_SECTION:waka-->
-
-```text
-Python       2 hrs 42 mins   ███████████████████░░░░░░   75.43 %
-Text         29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
-HTML         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-```
-
-<!--END_SECTION:waka-->
-
-</p>
 <hr class="dashed" />
 
 <h3 align="left">My latest articles</h3>
