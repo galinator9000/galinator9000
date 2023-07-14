@@ -1,12 +1,10 @@
 <div align="center">
   
-  ![](https://readme.rocks/api/view/64456979250c4cf5d562f5bf)
+  ![](https://readme.rocks/api/view/64456979250c4cf5d562f5bf) ![](https://readme.rocks/api/view/644569b9250c4cf5d562f5c0)
   
-  ![](https://readme.rocks/api/view/64456a75250c4cf5d562f5c1)
+  ![](https://readme.rocks/api/view/64b0b660ee179b4473a2f8a1)
   
-  ![](https://readme.rocks/api/view/64456b9d800c95e0a4578993)
-  
-  ![](https://readme.rocks/api/view/644569b9250c4cf5d562f5c0)
+  ![](https://readme.rocks/api/view/64b0b6d4ee179b4473a2f8a2)
 
 </div>
 
