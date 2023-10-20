@@ -1,14 +1,12 @@
 <div align="center">
   
-  ![](https://readme.rocks/api/view/64456979250c4cf5d562f5bf) ![](https://readme.rocks/api/view/644569b9250c4cf5d562f5c0)
+  ![](https://readme.rocks/api/view/64456979250c4cf5d562f5bf)
   
-  ![](https://readme.rocks/api/view/64b0b660ee179b4473a2f8a1)
+  ![](https://readme.rocks/api/view/64456a75250c4cf5d562f5c1)
   
-  ![](https://readme.rocks/api/view/64b0b6d4ee179b4473a2f8a2)
+  ![](https://readme.rocks/api/view/6532def3c59b56e881147349)
 
 </div>
-
-<hr class="dashed" />
 
 <h3 align="left">My latest articles</h3>
 
@@ -18,4 +16,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- View counter -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=galithegal&label=Views&color=010002&style=flat-square" alt="galithegal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=galinator9000&label=Views&color=010002&style=flat-square" alt="galinator9000" /> </p>
