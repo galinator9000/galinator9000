@@ -1,12 +1,29 @@
 <div align="center">
   
   ![](https://readme.rocks/api/view/64456979250c4cf5d562f5bf)
-  
-  ![](https://readme.rocks/api/view/64456a75250c4cf5d562f5c1)
-  
-  ![](https://readme.rocks/api/view/6532def3c59b56e881147349)
-
 </div>
+
+<!-- Start of bio -->
+# Hi there, I'm **Gali**! 👋  
+
+🚀 **AI Developer | Backend Engineer | Problem Solver**  
+
+### 🌟 About Me  
+Passionate backend engineer with over 4 years of experience in **Node.js** and **Python**, specializing in cloud-based architectures and cutting-edge AI technologies. My career goal is to contribute to impactful projects that make a difference in the world, focusing on **AI-driven humanitarian and environmental initiatives**.  
+
+### 🔭 Featured Projects  
+
+#### [🤖 **Exploring Encoder-Decoder Architectures in AI**  ](https://github.com/galinator9000/tf_encdec_seq2seq)
+A hands-on implementation of the encoder-decoder architecture with attention mechanisms in TensorFlow, mirroring the foundational ideas behind modern LLMs. This project shaped my understanding of tokenization, attention, and autoencoders.  
+
+#### [🌐 **Interactive Neural Networks in Your Browser** ](https://github.com/galinator9000/artificialneural.network)  
+A web-based app for building and visualizing fully-connected neural networks using **TensorFlow.js** and **p5.js**. Users can experiment with tasks like logistic and linear regression while gaining insights into the learning processes of neural networks.  
+
+### 🔗 Connect with Me  
+[![Connect on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/galiun)
+[![Visit My Linktree](https://img.shields.io/badge/-Linktree-black?style=for-the-badge&logo=linktree)](https://linktr.ee/galinilin)  
+
+<!-- End of bio -->
 
 <h3 align="left">My latest articles</h3>
 
