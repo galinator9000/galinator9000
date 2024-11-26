@@ -1,5 +1,5 @@
 <!-- Start of bio -->
-# Hi there, I'm **Gali**! 👋  
+# **Gali** here! 👋
 
 🚀 **AI Developer | Backend Engineer | Problem Solver**  
 
