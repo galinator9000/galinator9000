@@ -5,7 +5,7 @@
 
 ### 🔗 Connect with Me  
 [![Connect on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/galiun)
-[![Visit My Linktree](https://img.shields.io/badge/-Linktree-black?style=for-the-badge&logo=linktree)](https://linktr.ee/galinilin)  
+[![Visit My Linktree](https://img.shields.io/badge/-Linktree-black?style=for-the-badge&logo=linktree)](https://linktr.ee/butunworks)  
 
 ### 🌟 About Me  
 Passionate backend engineer with over 4 years of experience in **Node.js** and **Python**, specializing in cloud-based architectures and cutting-edge AI technologies. My career goal is to contribute to impactful projects that make a difference in the world, focusing on **AI-driven humanitarian and environmental initiatives**.  
